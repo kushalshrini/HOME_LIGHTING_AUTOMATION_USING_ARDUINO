@@ -6,6 +6,8 @@ Finally we will be having a correct figure of objects how many are there inside 
 
 To avoid all such situations we have designed this project called “ Home Lightning Automation  ” .Our Project measures the number of persons entering in any room like seminar hall, conference room, classroom. This function is implemented using a pair of Infrared sensors. This person count will be incremented if somebody enters in the room and at that time lights are turned on. And in a reverse way, person count will be decremented if somebody leaves the room. When the number of persons inside the room is zero, lights inside the room are turned off using a relay interface.Since this project uses 2 infrared sensors, it can be used as Bidirectional person counter as well.
 
+
+
 ### HARWARE REQUIREMENTS:
 
         ESP8266 ESP-12E for arduino CP2102
